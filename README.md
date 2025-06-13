@@ -31,9 +31,3 @@ A clean, responsive interface to enter topics and view summaries.
 
 ---
 
-## 💻 How to Run
-
-1. **Clone the repo**
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/news-summarizer.git
-   cd news-summarizer
